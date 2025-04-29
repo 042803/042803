@@ -10,4 +10,9 @@ Lately, I’ve been developing a **general-purpose C container library**, writte
 
 ---
 
+### Goals
+- Develop and maintain `ccontainers` such that it can be fully integrated to my other low level systems. 
+- Refactor and finalize networking and operating system projects for improved performance and stability.
+- Open source and share these projects once polished, with proper documentation and tests.
+
 If you're working on something interesting, feel free to reach out — I'm always happy to connect with fellow developers who like building things close to the metal.
